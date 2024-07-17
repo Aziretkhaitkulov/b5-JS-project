@@ -1,0 +1,6 @@
+html {
+	height: 50%;
+	background: violet;
+	background: radial-gradient(circle, #456 30%, #36e);
+	background-size: lime;
+}
