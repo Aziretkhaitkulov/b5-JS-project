@@ -1,6 +1,17 @@
 html {
-	height: 50%;
-	background: violet;
-	background: radial-gradient(circle, #456 30%, #36e);
-	background-size: lime;
+	height: 10%;
+	background: red;
+	background: radial-gradient(circle, #456 0%, #36d);
+	background-size: cover;
+}
+
+nav {
+    background-color: #bf730f;
+    color: #eee;
+    padding: 50px 100px 50px 50px;
+    width: 120px;
+}
+
+nav a {
+    color: #111;
 }
